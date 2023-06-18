@@ -20,5 +20,3 @@ I'm currently studying at UPN "Veteran" Yogyakarta majoring in Informatics and a
 
 - 🎨 I do watercolor painting too! [Check them out!](https://instagram.com/winterdmnd)
 - 🎮 Feel free to add me on Steam, I play Stardew Valley and Dota 2. [Steam Profile](https://steamcommunity.com/id/aljauzr)
-
----
