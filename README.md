@@ -6,7 +6,7 @@
 ---
 
 
-I'm currently studying at UPN "Veteran" Yogyakarta majoring in Informatics and a Bangkit 2023 Batch 1 Cloud Computing Learning Path participant (it's about to end in a month). Highly interested in backend development and willingly to study about anything related to it.
+I'm currently studying at UPN "Veteran" Yogyakarta majoring in Informatics and a Bangkit 2023 Batch 1 Cloud Computing Learning Path participant (it's about to end in a month). Highly interested in backend development and willingly to learn about anything related to it.
 
 
 ## Programming Languages
