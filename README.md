@@ -3,6 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/al-jauzi-abdurrohman-4848881a7/)](https://www.linkedin.com/in/al-jauzi-abdurrohman-4848881a7/)
 
+---
+
 
 I'm currently studying at UPN "Veteran" Yogyakarta majoring in Informatics and a Bangkit 2023 Batch 1 Cloud Computing Learning Path participant (it's about to end in a month). Highly interested in backend development and willingly to study about anything related to it.
 
