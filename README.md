@@ -11,6 +11,7 @@ I'm currently studying at UPN "Veteran" Yogyakarta majoring in Informatics and a
 
 ## Programming Languages
 - C++
+- Python
 - Java
 - JavaScript
 - PHP
