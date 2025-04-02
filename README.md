@@ -10,7 +10,6 @@ I am a fresh graduate Informatics student from UPN "Veteran" Yogyakarta. I have 
 
 
 ## Programming Languages
-<StackIcon name="js" />
 - C++
 - Python
 - Java
