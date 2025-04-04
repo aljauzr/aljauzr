@@ -14,5 +14,5 @@ I am a fresh graduate Informatics student from UPN "Veteran" Yogyakarta. I have 
 
 ## Psst!
 
-- 🎨 I do watercolor painting too! [Check them out!](https://instagram.com/winterdmnd)
-- 🎮 Feel free to add me on Steam, I play Stardew Valley and Dota 2. [Steam Profile](https://steamcommunity.com/id/aljauzr)
+- 🎨 I do watercolor painting too! <a href="https://instagram.com/winterdmnd" target="_blank">Check them out!</a>
+- 🎮 Feel free to add me on Steam, I play Stardew Valley and Dota 2. <a href="https://steamcommunity.com/id/aljauzr" target="_blank">Steam Profile</a>
