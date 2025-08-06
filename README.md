@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/al-jauzi-abdurrohman-4848881a7/)](https://www.linkedin.com/in/al-jauzi-abdurrohman-4848881a7/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aljauzr/)](https://www.linkedin.com/in/al-jauzi-abdurrohman-4848881a7/)
 
 ---
 
